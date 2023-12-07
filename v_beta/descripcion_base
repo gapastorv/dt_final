@@ -1,0 +1,3 @@
+El codigo que se muestra en este path implica un modelo de XGBoost comparado con uno de autoencoder para la clasificacion binaria, 
+implementando un dataset que incluye datos sobre los incidentes ocurridos en el campo petrolero desde el 2008. Para este caso, solamente se presentan dos modelos desde la base, es decir, 
+sin parametros de ajuste fuertes y solamente enfocado en comparar los valores de perdida por epocas/iteraciones para un modelo de red neuronal autoencoder y un arbol de decision de XGBoost.
