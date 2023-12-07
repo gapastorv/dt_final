@@ -1,0 +1,3 @@
+Con base en el anterior codigo, se implementa una combinacion de XGBoost con autoencoder aqui. Para este caso se agregaron parametros de entramiento con GridSearch,
+para XGBoost. Por su parte, el modelo de autoencoder se mantuvo con sus caracteristicas iniciales. Se añadio la muestra de la curva ROC, Precission-Recall y las
+matrices de confusión para cada modelo.
